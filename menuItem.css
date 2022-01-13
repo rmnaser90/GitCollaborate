@@ -1,5 +1,6 @@
 .menuItem{
     width: 90%;
     height: 90%;
-    
+background-color: bisque;
+display: grid;
 }
