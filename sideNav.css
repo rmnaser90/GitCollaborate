@@ -1,0 +1,12 @@
+.sideNav{
+    color: rgb(255, 0, 21);
+    background-color: chartreuse;
+    height: 100%;
+    width: 100%;
+    display: grid;
+    grid-template-rows: repeat(1fr,4);
+    font: size 15%;
+    font-style: italic;
+    border: black;
+    border-width: 1%;
+}
